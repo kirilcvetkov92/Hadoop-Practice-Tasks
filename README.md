@@ -5,7 +5,7 @@
 * Streaming
 * Run the word count example
 * Spark Examples
-** Dataframe
-** SparkML
-** RDD
+* Dataframe
+* SparkML
+* RDD
 * Hive examples
