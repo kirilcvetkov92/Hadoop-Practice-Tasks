@@ -9,3 +9,4 @@
 * SparkML
 * RDD
 * Hive examples
+* Kafka
